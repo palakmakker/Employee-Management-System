@@ -69,7 +69,7 @@ h1, h2, h3, h4, h5, h6, p{
 /*Header styling*/
 .header{
     min-height: 85vh;
-    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("") center/cover no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("header.jpg") center/cover no-repeat;
     color: #fff;
 }
 
